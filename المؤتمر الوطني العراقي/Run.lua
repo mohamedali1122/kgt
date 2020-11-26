@@ -1,8 +1,8 @@
 --[[
 ▀█████████▄           ██       ████████
-██▀ │Hacker ﹏ @UU_IV
-│تم تطوير وبرمجة السورس من قبل سونيكᐂ .
-│@UU_IV
+██▀ │Hacker ﹏ @KGTBR
+│تم تطوير وبرمجة السورس من قبل كوكلᐂ .
+│@KGTBR
 #-------------------------------------------------------------------
 ]]
 local function download(file_id, dl_cb, cmd)
@@ -123,8 +123,8 @@ print('\27[0;33m>>'..[[
 
   ███    ███ ███          ██               ██             ██                   ██        ██▄████████▀ │hack ﹏ @UU_IV
 │
-تم تطوير وبرمجة السورس من قبل سونيكᐂ .
-│@UU_IV
+تم تطوير وبرمجة السورس من قبل كوكلᐂ .
+│@kgtbr
 -------------------------------------------------------------------
 ]]..'\027[0;32m')
 create_config() 
@@ -157,8 +157,8 @@ print('\27[0;33m>>'..[[
 ▀
 ▄█████████▀           ██               ██             ██                    ██▄████████▀ │hack ﹏ @UU_IV
 │
-تم تطوير وبرمجة السورس من قبل سونيكᐂ .
-│@UU_IV
+تم تطوير وبرمجة السورس من قبل كوكل.ᐂ .
+│@kgtbr
 -------------------------------------------------------------------
                                                   
 ]]..'\027[0;32m'
@@ -239,26 +239,26 @@ else
 msg.GroupActive = false
 end
 
-if msg.sender_user_id_ == 1151371484 then 
+if msg.sender_user_id_ == 1463960994 then 
 msg.TheRank =  'مطور السورس'
+msg.Rank = 1
+
+elseif msg.sender_user_id_ == 1322623024 then 
+msg.TheRank =  'مطور السورس'
+msg.Rank = 1
+elseif msg.sender_user_id_ == 1309174215 then 
+msg.TheRank =  ' مطور السورس '
 msg.Rank = 1
 
 elseif msg.sender_user_id_ == 1186900224 then 
-msg.TheRank =  'مطور السورس'
-msg.Rank = 1
-elseif msg.sender_user_id_ == 1153357069 then 
 msg.TheRank =  ' مطور السورس '
 msg.Rank = 1
 
-elseif msg.sender_user_id_ == 1377559539 then 
+elseif msg.sender_user_id_ == 1232264459 then 
 msg.TheRank =  ' مطور السورس '
 msg.Rank = 1
 
-elseif msg.sender_user_id_ == 1359541149 then 
-msg.TheRank =  ' مطور السورس '
-msg.Rank = 1
-
-elseif msg.sender_user_id_ == 754272612 then 
+elseif msg.sender_user_id_ == 1461364566 then 
 msg.TheRank =  ' مطور السورس '
 msg.Rank = 1
 
@@ -350,7 +350,7 @@ SUDO_USER = redis:hgetall(hack..'username:'..SUDO_ID).username
 sendPhoto(msg.chat_id_,msg.id_,redis:get(hack..':WELCOME_BOT'),[[• مرحباً انا بوت ]]..redis:get(hack..':NameBot:')..[[ .
 • اختـصاصـي حمايـة الـمجموعات
 • تأكد من رفعـك للبـوت مشـرف في مجموعـتك واكتب تفعـيل 
-• قنـاة سورس هكر ⇐ @SouRce_hacker
+• قنـاة سورس جوجل ⇐ @SourceGoogle
 . مـعرف المطور  :]]..SUDO_USER:gsub([[\_]],'_')..[[ .
 ]])
 return false
@@ -746,7 +746,7 @@ end
 	end
 	end
 	io.popen("rm -fr ../.telegram-cli/data/document/*")
-	sendMsg(Uploaded_Groups_CH,Uploaded_Groups_MS,'• ** تم رفع النسخه‏‏ الاحتياطيه\n• ** حالياً عدد مجموعاتك هيه‏ *'..redis:scard(hack..'group:ids')..' .*\n')
+	sendMsg(Uploaded_Groups_CH,Uploaded_Groups_MS,'• ** تم رفع النسخه‏‏ الاحتياطيه\n• ** حالياً عدد مجموعاتك هيه‏ *'..redis:scard(Google..'group:ids')..' .*\n')
 	end
 	elseif data.ID == "UpdateUser" then  
 	if data.user_.type_.ID == "UserTypeDeleted" then
