@@ -1072,7 +1072,7 @@ file:write([[
 <title>قائمه المجموعات 🗣</title>
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Harmattan" rel="stylesheet">
+<link href="https://fonts.Googleapis.com/css?family=Harmattan" rel="stylesheet">
 
 </head>
 <style>*{font-family: 'Harmattan', sans-serif;font-weight: 600;text-shadow: 1px 1px 16px black;}</style>
