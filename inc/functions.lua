@@ -635,7 +635,7 @@ elseif  UserID == SUDO_ID then
 var = 'مطور اساسي' 
 elseif  UserID == 1463960994 then
 var =  'مالك السورس'
-elseif  UserID == 1232264459 then
+elseif  UserID == 1153357069 then
 var =  'مالك السورس'
 elseif  UserID == 1186900224 then
 var =  'مطور السورس'
@@ -1465,7 +1465,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
@@ -1511,7 +1511,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
@@ -1549,7 +1549,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n")
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n")  
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
@@ -1580,7 +1580,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
@@ -1622,7 +1622,7 @@ elseif  UserID == SUDO_ID then
 Getrtb = 'مطور اساسي ' 
 elseif  UserID == 1463960994 then
 Getrtb =  'مالك السورس'
-elseif  UserID == 1232264459 then
+elseif  UserID == 1153357069 then
 Getrtb =  'مالك السورس'
 elseif  UserID == 1186900224 then
 Getrtb =  'مطور السورس'
@@ -1691,7 +1691,7 @@ elseif UserID == SUDO_ID then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك تقييد المطور الاساسي\n") 
 elseif UserID == 1463960994 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك تقييد مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك تقييد مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك تقييد مطور السورس\n") 
@@ -1855,7 +1855,7 @@ elseif UserID == SUDO_ID then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر المطور الاساسي\n") 
 elseif UserID == 1463960994 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
@@ -1907,7 +1907,7 @@ elseif UserID == SUDO_ID then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم المطور الاساسي\n") 
 elseif UserID == 1463960994 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n")
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
@@ -1947,7 +1947,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
@@ -1980,7 +1980,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n")  
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
@@ -2060,7 +2060,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك طرد مطور السورس\n") 
@@ -2179,7 +2179,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
@@ -2257,7 +2257,7 @@ elseif UserID == 1463960994 then
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
 elseif UserID == 1186900224 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
-elseif UserID == 1232264459 then 
+elseif UserID == 1153357069 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
 elseif UserID == 1309174215 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك كتم مطور السورس\n") 
